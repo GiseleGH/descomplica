@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d8e2e2;
+}
+
+.main{
+    text-align: center;
+    margin: 20px;
+    border: solid #5aa2c4;
+    background-color: #5aa2c4;
+    border-radius: 50%;
+    font-family: 'Poiret One', cursive;    
+}
+
+.description{
+    text-align: center;
+    font-size: 18px;
+    margin: 0 40px 0 40px;
+}
+
+.access{
+    border: double #000000;
+    width: 500px;
+    right: 500px;
+    margin: 40px auto;
+}
+
+.access1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Meow Script', cursive;
+    font-size: 60px;
+    font-weight: normal;
+}
+
+input{
+    display: block;
+    margin: auto;
+}
+
+.access2{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Meow Script', cursive;
+    font-weight: bold;
+}
